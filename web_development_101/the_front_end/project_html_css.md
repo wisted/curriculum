@@ -2999,6 +2999,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [DcRonan's Solution (Easy)](https://github.com/dcronan/google-homepage) - [View in Browser](https://dcronan.github.io/google-homepage/)
 * [clarkey28's Solution (Easy)](https://github.com/Clarkey28/google-homepage) - [View in Browser](https://clarkey28.github.io/google-homepage/) 
 * [Ecclesiology's Solution (Easy)](https://github.com/Ecclesiology/google-homepage)
+* .[Glenn's Solution (easy)](https://wisted.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
